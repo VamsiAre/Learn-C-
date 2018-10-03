@@ -30,8 +30,8 @@ namespace Learning_Csharp
          LastName = Console.ReadLine();
 
          Console.WriteLine("Hello, " + FirstName + " " + LastName);
-         //Console.ReadLine();
-         
+            Console.ReadLine();
+
         }
 
     }
